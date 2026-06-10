@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: 8ed1c090a4f7b374d961c73b7dbb54bc
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1-_2-_BaseMercedes
+    second: {fileID: 2100000, guid: f67995f073032e440b9baf65a90844cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 10-_12-_
+    second: {fileID: 2100000, guid: 4bc0b2e6b4feb8f409df746c8a4e9c55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 11-_14-_
+    second: {fileID: 2100000, guid: 2d4d1e45bb3f8944c8a681876207155c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 12-_14-_
+    second: {fileID: 2100000, guid: ba59028d44081a84b8c875c0326a5b20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 13-_15-_MercedesWll
+    second: {fileID: 2100000, guid: 694ae4dcba1de3945aa0c35a0f56928b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 14-_15-_MercedesWll
+    second: {fileID: 2100000, guid: 95c59e5213efc3a44a4cd0e94c659043, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15-_16-_
+    second: {fileID: 2100000, guid: ab6bf0f8a2c4e7d40a63170feb96d05e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 16-_20-_
+    second: {fileID: 2100000, guid: 8ec5d52d013bc8e47b807a075bb44ab1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 17-_20-_
+    second: {fileID: 2100000, guid: b3b763921c74c754bb7db659cd29824b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 18-_21-_
+    second: {fileID: 2100000, guid: f785953373612584e90de9d02dcc6e2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 19-_21-_
+    second: {fileID: 2100000, guid: 0520f633158d787489ac85abab7bfa06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2-_2-_BaseMercedes
+    second: {fileID: 2100000, guid: 5e622eb75e3fac045a5e2f4634c994b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 20-_22-_
+    second: {fileID: 2100000, guid: 553f19c9ced6ddc469044e271bd44e2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 21-_22-_
+    second: {fileID: 2100000, guid: c4e86d7faa2c52c4a975c53ec57ec631, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 22-_23-_
+    second: {fileID: 2100000, guid: 163042f4a20dda549b36a4b7e2dd6040, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 23-_28-_
+    second: {fileID: 2100000, guid: 2a4fb8e8b2058d14fad1959b4d28421c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 24-_28-_
+    second: {fileID: 2100000, guid: 1f4190c3e2b987f4f8e51a43f6d7e0bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25-_29-_
+    second: {fileID: 2100000, guid: 5487af47321190d4a9a16a6dca04f56d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 26-_32-_
+    second: {fileID: 2100000, guid: f106d9090b5dd664599127b788b10868, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 27-_32-_
+    second: {fileID: 2100000, guid: 5cfd6dc552197a744bfee297bfaffd07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 28-_33-_
+    second: {fileID: 2100000, guid: 1d645e9b41ae5af4a924227c22ec87ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 29-_34-_
+    second: {fileID: 2100000, guid: 4c824bc2366caa2498fa4cf327c07b8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3-_3-_Mercedes_Parts
+    second: {fileID: 2100000, guid: c3ab7be45383dce46844777e4a57b498, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 30-_34-_
+    second: {fileID: 2100000, guid: b34338b860e8ada47862e258d534d160, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 31-_35-_
+    second: {fileID: 2100000, guid: a5c48cdda8f37ce40a6aa86b8470c444, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 32-_35-_
+    second: {fileID: 2100000, guid: f45e8dbc3bc58ee40ab206a6b120ca50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 33-_40-_
+    second: {fileID: 2100000, guid: 2164cecc495a8b6479eda837ed81c244, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 34-_40-_
+    second: {fileID: 2100000, guid: fb59ad0e686da6645ae8e32062745c96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 35-_41-_
+    second: {fileID: 2100000, guid: 0e1453d081c65eb44a4207859d08bd41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 36-_41-_
+    second: {fileID: 2100000, guid: 0f425f6285e808a48a92e83b1767da0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 37-_42-_
+    second: {fileID: 2100000, guid: 884205efd154141489be37f3cc6013e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 38-_42-_
+    second: {fileID: 2100000, guid: 21c39be3246ea884d85a843e296d87a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 39-_43-_
+    second: {fileID: 2100000, guid: b3e2678f4a0939f47b3d9fc90e6d2030, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 4-_3-_Mercedes_Parts
+    second: {fileID: 2100000, guid: 6358e8fcdad67204083d1c80bb58e0dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40-_43-_
+    second: {fileID: 2100000, guid: 3ebd9812ef6a0e14090139aa1e311f53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 41-_48-_
+    second: {fileID: 2100000, guid: 46031f0552c1823449260763f81bc27a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 42-_48-_
+    second: {fileID: 2100000, guid: 59e8b6b523114284491e591b486b043e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 43-_49-_
+    second: {fileID: 2100000, guid: 23e578505525a284990175f8b3d2b699, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 44-_49-_
+    second: {fileID: 2100000, guid: eff6c7fb158654c478456aac8cc30153, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 45-_50-_
+    second: {fileID: 2100000, guid: 6205d4bd0ff0d6d4391c333a54dc280f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 46-_50-_
+    second: {fileID: 2100000, guid: eb5f91efd3481f24a96f534c917307ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 47-_51-_
+    second: {fileID: 2100000, guid: f3af2d65205df314d914b853b22f6130, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 48-_56-_
+    second: {fileID: 2100000, guid: 51cfcad6fd4484147945b3cec9369039, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 49-_58-_
+    second: {fileID: 2100000, guid: e059eb1a464d8c145a2f8a93f33f8d6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5-_4-_MercedesInterio
+    second: {fileID: 2100000, guid: 732371caf4af8cc4b9efa4b1a24866fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 50-_60-_
+    second: {fileID: 2100000, guid: 26d20a29ee35e84469a99d4294f1edd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 51-_60-_
+    second: {fileID: 2100000, guid: 5ec3f8ef12735a44f874e9eaa1ad983f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 52-_62-_
+    second: {fileID: 2100000, guid: 848c186992b4e5946bce8ff2c86a5288, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 53-_62-_
+    second: {fileID: 2100000, guid: c27a207b59158cf4b81ea3d3dfcda4df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 54-_63-_
+    second: {fileID: 2100000, guid: c41afaca97dd44d4b8ad42357b90d933, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 55-_63-_
+    second: {fileID: 2100000, guid: 1ee06f4a789beff41be71bd0e2c5fe11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 56-_64-_
+    second: {fileID: 2100000, guid: 1ba1af556ffafe5479dd9c26e361605e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 57-_64-_
+    second: {fileID: 2100000, guid: adb23a3ba130a234583c2fd659260995, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 58-_65-_
+    second: {fileID: 2100000, guid: 36cd07afdc9015d449beafa65a09069b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 59-_65-_
+    second: {fileID: 2100000, guid: 128c734fca54f6444b51a3c0fce46c42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 6-_4-_MercedesInterio
+    second: {fileID: 2100000, guid: 134bd38316b77e947b85189e369c1113, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 60-_70-_
+    second: {fileID: 2100000, guid: ca5510b6126c9094c9f4319312a934c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 61-_70-_
+    second: {fileID: 2100000, guid: 9afde8eff00605642bc5f8468dc67723, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 62-_71-_
+    second: {fileID: 2100000, guid: 192edfef88ab0c247818dafe93dbf8ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 63-_72-_
+    second: {fileID: 2100000, guid: 872f0bea72b03684e81c07935c69ce00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 64-_72-_
+    second: {fileID: 2100000, guid: 264865f5e9253364da0350510f1e7b7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 65-_73-_
+    second: {fileID: 2100000, guid: e2ae9fbd63219e949b49e4503486c05f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 66-_73-_
+    second: {fileID: 2100000, guid: 3459b82f443de124cb12cba6aee08e19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 67-_78-_
+    second: {fileID: 2100000, guid: d44c673286bab164287ced129e4c006e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 68-_79-_
+    second: {fileID: 2100000, guid: 30fcee5f9376c4d4a9aabddcd996e398, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 69-_82-_
+    second: {fileID: 2100000, guid: 35fa52599b9a0f946869507912ff31a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7-_5-_MercedesWindows
+    second: {fileID: 2100000, guid: 94ff46ae0d1bc064b820d17c879401c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 70-_82-_
+    second: {fileID: 2100000, guid: 9583266791255a14f85476188c8d6652, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 71-_83-_
+    second: {fileID: 2100000, guid: 98a9a5a5d6e596442ba669c166e8a119, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 72-_83-_
+    second: {fileID: 2100000, guid: b85909760fd0177488ae93befb8e6c1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 8-_5-_MercedesWindows
+    second: {fileID: 2100000, guid: 45e37bd707d521441aa08f4334419d7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 9-_10-_MercedesWheels
+    second: {fileID: 2100000, guid: e20e8513a602a2047898f64f79cedf09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: b85ace9be5e2d0340b4f4a4d1510cd2c, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
